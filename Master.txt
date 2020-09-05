@@ -1,1 +1,2 @@
+Inserting Master First line
 Inside master
