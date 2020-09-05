@@ -1,2 +1,2 @@
 Inserting Master First line
-Inside master
+Inside master Master changing second line
